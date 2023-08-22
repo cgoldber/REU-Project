@@ -1,4 +1,4 @@
-# REU-Project
+# REU Project Summer 2023
 # Overview
 Analyzes geophysical log data and employs various machine learning algorithms to predict fractured depth intervals based on the log data. No datasets are published.
 
